@@ -30,9 +30,9 @@ Welcome to my GitHub profile! I’m a **Full-Stack Developer** passionate about 
 ---
 
 ## 📫 How to Reach Me
-- Email: [clinton@example.com](mailto:clinton@example.com)  
-- LinkedIn: [Clinton Orenge](https://linkedin.com/in/yourprofile)  
-- Twitter: [@ClintonCMOs](https://twitter.com/ClintonCMOs)
+- Email: [orengecmo@gmail.com]  
+- LinkedIn: [Clinton Orenge](https://www.linkedin.com/in/clinton-orenge-77211287/)  
+- Twitter: [@morogaClinton](https://x.com/morogaclinton)
 
 ---
 
